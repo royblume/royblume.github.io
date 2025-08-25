@@ -3,10 +3,6 @@ main:
   - title: "All Categories"
     url: /categories/
   - title: "CVE Research"
-    url: /categories/#cve
+    url: /categories/#cve-research
   - title: "Course Content"
-    url: /categories/#course
-  - title: "About"
-    url: /about/
-  - title: "Posts"
-    url: /posts/
+    url: /categories/#course-content
