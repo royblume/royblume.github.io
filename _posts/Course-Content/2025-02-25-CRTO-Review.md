@@ -4,6 +4,7 @@ date:   2025-02-25
 tags: [posts]
 categories:
     - Course Content
+toc: true
 excerpt: "CRTO Review"
 ---
 
