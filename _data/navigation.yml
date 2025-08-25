@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "All Categories"
+    url: /categories/
+  - title: "CVE Research"
+    url: /categories/#cve
+  - title: "Course Content"
+    url: /categories/#course
   - title: "About"
     url: /about/
   - title: "Posts"

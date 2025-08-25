@@ -2,6 +2,8 @@
 title:  "CRTO Review: Learning the Foundations of Cobalt Strike"
 date:   2025-02-25
 tags: [posts]
+categories:
+    - Course Content
 excerpt: "CRTO Review"
 ---
 
